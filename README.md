@@ -1,6 +1,6 @@
 # SatanClaws
 
-Hello, I'm Akhoury Shauryam.
+Hello, my name is Akhoury Shauryam.
 I am interested in Game Development 🎮 , Graphic Design 🎨, and coding related to the two.
 
 
